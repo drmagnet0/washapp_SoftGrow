@@ -1,0 +1,100 @@
+/* #8cc540 */
+/* #156c16 */
+
+#top-bar,
+.camera_wrap .camera_pag .camera_pag_ul li,
+.camera_wrap .camera_pag .camera_pag_ul li:hover > span,
+.button--light:hover,
+.how-to-wrap .step-wrapper,
+.carouselNav .thumbnail.active,
+.prices .offer-wrapper,
+section.news,
+section.--light-blue,
+.play-video,
+.cms-page-product-items
+  .product-container
+  .product-item
+  .product-cart
+  .cart-number,
+footer .navbar .footer-bottom {
+  background-color: #8cc540;
+}
+a,
+section.prices .subhead {
+  color: #8cc540 !important;
+}
+#top-bar .claim-container button.claim,
+.button--dark,
+.button--light,
+.how-to-wrap .number-wrapper div,
+.input-group.check button.check-button,
+.camera_wrap .camera_pag .camera_pag_ul li > span:hover,
+.camera_wrap .camera_pag .camera_pag_ul li.cameracurrent > span,
+.camera_wrap .camera_pag .camera_pag_ul li.cameracurrent > span:hover,
+.cms-page-product-items .product-container .product-item .product-content,
+.cms-page-user .block-form .sign_up-block ul li.sign_up_with.normal a {
+  background-color: #156c16;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar .nav.navbar-nav li a.header-link:hover,
+#top-bar .quick-links .li-nav-cart .badge,
+.how-to-wrap .step-wrapper .step-heading,
+.how-to-wrap .step-wrapper .step-text,
+section .title,
+section .description,
+section .heading,
+.service-heading,
+.service-description,
+.prices .offer-wrapper .wrapper .price-heading,
+.testimonials .testimonial,
+.testimonials .name,
+.testimonials .position-city,
+.about_us-desc,
+section.cleaned-over .row-dry-cleaning,
+section.our-passion,
+.management .content,
+.management .management-image .ceo,
+.cms-page-how_it_works .section-steps,
+.cms-page-how_it_works .how-it-works-desc,
+.cms-page-how_it_works .how-it-works-desc,
+.laundry-process .std,
+.cms-page-product-items .product-container .product-item .product-price,
+.prices .offer-wrapper .wrapper .price,
+footer a {
+  color: #156c16 !important;
+}
+a.button.button--light,
+.play-video .play-video-text,
+a.button.button--dark.play.popup-youtube,
+section.news .news-title a,
+.cms-page-user .block-form .sign_up-block ul li.sign_up_with.facebook a,
+.cms-page-user .block-form .sign_up-block ul li.sign_up_with.normal a,
+footer .navbar .footer-bottom .designBy {
+  color: white !important;
+}
+
+.carouselNav .thumbnail.active,
+a.thumbnail.active,
+a.thumbnail:focus,
+a.thumbnail:hover {
+  border-color: #156c16;
+}
+
+.prices .offer-wrapper {
+  margin-bottom: 100px;
+}
+
+.multiple-items.owl-theme .owl-item {
+  min-height: 420px;
+}
+
+.product-price {
+  background: #ffffff96;
+  padding: 0 5px;
+  border-radius: 4px;
+}
+.cms-page-product-items .block-categories .slick-slide .category-icon img {
+  max-height: 59px;
+}
